@@ -1,7 +1,10 @@
 # Employees Burnout Analysis
 
 ## 📊 Overview
-This repository contains an analytical project focused on understanding employee burnout trends using a dataset that includes key metrics like resource allocation, mental fatigue scores, and burnout rates. The goal is to provide actionable insights to improve workplace well-being and optimize employee performance.
+Employee burnout is a state of physical, emotional, and mental exhaustion caused by excessive and prolonged stress. It can have serious consequences on an individual's well-being and lead to decreased productivity and job performance. In today's fast-paced and constantly connected world, it is increasingly important to recognize and address the signs of burnout to maintain employees' health and well-being.
+
+This project explores the use of regression techniques to predict employee burnout. By analyzing a dataset containing factors such as workload, mental fatigue, job roles, and work-life balance, we aim to develop a model to identify individuals at risk of burnout. By proactively addressing these risks, organizations can prevent burnout and promote employee well-being.
+
 
 ## 📁 Dataset Description
 The dataset consists of 9 columns:
